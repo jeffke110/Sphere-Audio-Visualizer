@@ -25,7 +25,6 @@ A real-time OpenGL audio visualizer built in C++ that renders a glowing wirefram
 
 ### ✅ Prerequisites:
 - Visual Studio 2022
-- CMake (>= 3.10)
 - Git (for cloning dependencies, optional)
 
 ### 🚀 Steps:
