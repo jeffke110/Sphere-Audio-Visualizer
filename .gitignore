@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+.vscode
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+Debug/
+Release/
+x64/
+*.exe
+*.dll
+*.obj
+*.pdb
+*.ipch
+*.ilk
+*.log
+
+# CMake or generated files (if applicable)
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Git
+*.orig
